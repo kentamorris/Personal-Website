@@ -1,0 +1,530 @@
+abandon  AH B AE N D AH N
+abuse  AH B Y UW S
+accept  AE K S EH P T
+access  AE K S EH S
+accompany  AH K AH M P AH N IY
+account  AH K AW N T
+achieve  AH CH IY V
+acquire  AH K W AY ER
+acquit  AH K W IH T
+act  AE K T
+adapt  AH D AE P T
+add  AE D
+adjust  AH JH AH S T
+admire  AE D M AY R
+admit  AH D M IH T
+adopt  AH D AA P T
+advertise  AE D V ER T AY Z
+advise  AE D V AY Z
+affect  AH F EH K T
+afford  AH F AO R D
+agree  AH G R IY
+aid  EY D
+alarm  AH L AA R M
+allow  AH L AW
+alter  AO L T ER
+amaze  AH M EY Z
+amount  AH M AW N T
+analyze  AE N AH L AY Z
+anger  AE NG G ER
+announce  AH N AW N S
+annoy  AH N OY
+answer  AE N S ER
+apologize  AH P AA L AH JH AY Z
+appear  AH P IH R
+appoint  AH P OY N T
+approve  AH P R UW V
+argue  AA R G Y UW
+arm  AA R M
+arrange  ER EY N JH
+arrest  ER EH S T
+arrive  ER AY V
+ask  AE S K
+assist  AH S IH S T
+associate  AH S OW S IY AH T
+assume  AH S UW M
+assure  AH SH UH R
+attach  AH T AE CH
+attempt  AH T EH M P T
+attend  AH T EH N D
+attract  AH T R AE K T
+avoid  AH V OY D
+award  AH W AO R D
+bake  B EY K
+balance  B AE L AH N S
+bang  B AE NG
+bankrupt  B AE NG K R AH P T
+bark  B AA R K
+bathe  B EY DH
+be  B IY
+bear  B EH R
+become  B IH K AH M
+beg  B EH G
+begin  B IH G IH N
+behave  B IH HH EY V
+believe  B IH L IY V
+belong  B IH L AO NG
+bet  B EH T
+bind  B AY N D
+blame  B L EY M
+bleed  B L IY D
+blend  B L EH N D
+blind  B L AY N D
+blow  B L OW
+board  B AO R D
+boast  B OW S T
+boil  B OY L
+border  B AO R D ER
+bore  B AO R
+borrow  B AA R OW
+boss  B AA S
+bother  B AA DH ER
+bounce  B AW N S
+brace  B R EY S
+breathe  B R IY DH
+brief  B R IY F
+calculate  K AE L K Y AH L EY T
+call  K AO L
+camp  K AE M P
+cancel  K AE N S AH L
+capture  K AE P CH ER
+carry  K AE R IY
+cast  K AE S T
+catch  K AE CH
+cease  S IY S
+celebrate  S EH L AH B R EY T
+center  S EH N T ER
+change  CH EY N JH
+charge  CH AA R JH
+chase  CH EY S
+chat  CH AE T
+cheat  CH IY T
+check  CH EH K
+chew  CH UW
+choke  CH OW K
+choose  CH UW Z
+chop  CH AA P
+claim  K L EY M
+classify  K L AE S AH F AY
+clear  K L IH R
+click  K L IH K
+climb  K L AY M
+coach  K OW CH
+coast  K OW S T
+coat  K OW T
+collect  K AH L EH K T
+comb  K OW M
+combine  K AA M B AY N
+come  K AH M
+comfort  K AH M F ER T
+command  K AH M AE N D
+comment  K AA M EH N T
+commit  K AH M IH T
+communicate  K AH M Y UW N AH K EY T
+compete  K AH M P IY T
+complain  K AH M P L EY N
+complicate  K AA M P L AH K EY T
+compose  K AH M P OW Z
+concentrate  K AA N S AH N T R EY T
+conclude  K AH N K L UW D
+conduct  K AA N D AH K T
+confine  K AH N F AY N
+confirm  K AH N F ER M
+conflict  K AA N F L IH K T
+confuse  K AH N F Y UW Z
+connect  K AH N EH K T
+consent  K AH N S EH N T
+consider  K AH N S IH D ER
+consist  K AH N S IH S T
+construct  K AH N S T R AH K T
+consult  K AH N S AH L T
+contain  K AH N T EY N
+continue  K AH N T IH N Y UW
+contribute  K AH N T R IH B Y UW T
+control  K AH N T R OW L
+convert  K AA N V ER T
+convince  K AH N V IH N S
+cook  K UH K
+cooperate  K OW AA P ER EY T
+cope  K OW P
+copyright  K AA P IY R AY T
+correct  K ER EH K T
+correspond  K AO R AH S P AA N D
+cost  K AA S T
+could  K UH D
+cover  K AH V ER
+crack  K R AE K
+create  K R IY EY T
+deal  D IY L
+debt  D EH T
+decay  D IH K EY
+decide  D IH S AY D
+decline  D IH K L AY N
+decorate  D EH K ER EY T
+decrease  D IH K R IY S
+define  D IH F AY N
+deliver  D IH L IH V ER
+demonstrate  D EH M AH N S T R EY T
+deny  D IH N AY
+depend  D IH P EH N D
+depress  D IH P R EH S
+derive  D ER AY V
+describe  D IH S K R AY B
+deserve  D IH Z ER V
+design  D IH Z AY N
+destroy  D IH S T R OY
+determine  D AH T ER M AH N
+develop  D IH V EH L AH P
+devote  D IH V OW T
+die  D AY
+dig  D IH G
+direct  D ER EH K T
+disagree  D IH S AH G R IY
+disappear  D IH S AH P IH R
+disappoint  D IH S AH P OY N T
+disapprove  D IH S AH P R UW V
+discover  D IH S K AH V ER
+discuss  D IH S K AH S
+disgust  D IH S G AH S T
+dismay  D IH S M EY
+dismiss  D IH S M IH S
+display  D IH S P L EY
+dispute  D IH S P Y UW T
+dissolve  D IH Z AA L V
+distinguish  D IH S T IH NG G W IH SH
+distress  D IH S T R EH S
+distribute  D IH S T R IH B Y UW T
+distrust  D IH S T R AH S T
+disturb  D IH S T ER B
+dive  D AY V
+dizzy  D IH Z IY
+do  D UW
+dominate  D AA M AH N EY T
+dribble  D R IH B AH L
+dugout  D AH G AW T
+earn  ER N
+eat  IY T
+educate  EH JH AH K EY T
+elect  IH L EH K T
+embarrass  IH M B EH R AH S
+emerge  IH M ER JH
+emphasize  EH M F AH S AY Z
+employ  EH M P L OY
+empty  EH M P T IY
+enable  EH N EY B AH L
+encounter  IH N K AW N T ER
+encourage  EH N K ER IH JH
+end  EH N D
+engage  IH N G EY JH
+enjoy  EH N JH OY
+ensure  EH N SH UH R
+enter  EH N T ER
+entertain  EH N T ER T EY N
+erase  IH R EY S
+escape  IH S K EY P
+establish  IH S T AE B L IH SH
+estimate  EH S T AH M AH T
+evaluate  IH V AE L Y UW EY T
+even  IY V IH N
+exaggerate  IH G Z AE JH ER EY T
+exam  IH G Z AE M
+examine  IH G Z AE M IH N
+exceed  IH K S IY D
+excite  IH K S AY T
+exclude  IH K S K L UW D
+excuse  IH K S K Y UW S
+extinct  IH K S T IH NG K T
+face  F EY S
+fall  F AO L
+fasten  F AE S AH N
+favor  F EY V ER
+feature  F IY CH ER
+feed  F IY D
+feel  F IY L
+fill  F IH L
+find  F AY N D
+fine  F AY N
+finish  F IH N IH SH
+fix  F IH K S
+flash  F L AE SH
+float  F L OW T
+flood  F L AH D
+flu  F L UW
+fly  F L AY
+focus  F OW K AH S
+gather  G AE DH ER
+generate  JH EH N ER EY T
+get  G EH T
+give  G IH V
+go  G OW
+govern  G AH V ER N
+grab  G R AE B
+grant  G R AE N T
+greet  G R IY T
+grind  G R AY N D
+grow  G R OW
+guarantee  G EH R AH N T IY
+guess  G EH S
+handle  HH AE N D AH L
+hang  HH AE NG
+happen  HH AE P AH N
+happy  HH AE P IY
+harm  HH AA R M
+hatch  HH AE CH
+have  HH AE V
+heal  HH IY L
+hear  HH IY R
+help  HH EH L P
+hesitate  HH EH Z AH T EY T
+hide  HH AY D
+hint  HH IH N T
+hire  HH AY ER
+hold  HH OW L D
+honor  AA N ER
+hop  HH AA P
+hug  HH AH G
+identify  AY D EH N T AH F AY
+ignore  IH G N AO R
+illustrate  IH L AH S T R EY T
+imagine  IH M AE JH AH N
+imitate  IH M AH T EY T
+obey  OW B EY
+observe  AH B Z ER V
+obtain  AH B T EY N
+occupy  AA K Y AH P AY
+occur  AH K ER
+offend  AH F EH N D
+offer  AO F ER
+open  OW P AH N
+operate  AA P ER EY T
+oppose  AH P OW Z
+order  AO R D ER
+organize  AO R G AH N AY Z
+ought  AO T
+pack  P AE K
+paint  P EY N T
+park  P AA R K
+participate  P AA R T IH S AH P EY T
+pat  P AE T
+pause  P AO Z
+perform  P ER F AO R M
+permit  P ER M IH T
+persuade  P ER S W EY D
+pick  P IH K
+pile  P AY L
+pin  P IH N
+play  P L EY
+point  P OY N T
+poison  P OY Z AH N
+polish  P AA L IH SH
+pop  P AA P
+pose  P OW Z
+possess  P AH Z EH S
+practice  P R AE K T IH S
+praise  P R EY Z
+pray  P R EY
+predict  P R IH D IH K T
+prefer  P R AH F ER
+prejudice  P R EH JH AH D IH S
+prepare  P R IY P EH R
+preserve  P R AH Z ER V
+press  P R EH S
+pretend  P R IY T EH N D
+prevent  P R IH V EH N T
+print  P R IH N T
+proceed  P R AH S IY D
+qualify  K W AA L AH F AY
+question  K W EH S CH AH N
+quit  K W IH T
+race  R EY S
+raise  R EY Z
+reach  R IY CH
+react  R IY AE K T
+read  R EH D
+realize  R IY AH L AY Z
+recall  R IY K AO L
+receive  R AH S IY V
+recognize  R EH K AH G N AY Z
+recommend  R EH K AH M EH N D
+record  R AH K AO R D
+reduce  R IH D UW S
+refer  R AH F ER
+reflect  R AH F L EH K T
+refuse  R AH F Y UW Z
+reject  R IH JH EH K T
+relate  R IH L EY T
+relax  R IH L AE K S
+release  R IY L IY S
+relieve  R IH L IY V
+rely  R IH L AY
+remain  R IH M EY N
+remember  R IH M EH M B ER
+remind  R IY M AY N D
+remove  R IY M UW V
+repeat  R IH P IY T
+replace  R IY P L EY S
+report  R IY P AO R T
+represent  R EH P R AH Z EH N T
+reproduce  R IY P R AH D UW S
+request  R IH K W EH S T
+require  R IY K W AY ER
+rescue  R EH S K Y UW
+reserve  R IH Z ER V
+resign  R IH Z AY N
+resist  R IH Z IH S T
+resolve  R IY Z AA L V
+respond  R IH S P AA N D
+rest  R EH S T
+restore  R IH S T AO R
+restrict  R IY S T R IH K T
+retain  R IH T EY N
+retire  R IH T AY R
+return  R IH T ER N
+reveal  R IH V IY L
+review  R IY V Y UW
+revise  R IH V AY Z
+satisfy  S AE T AH S F AY
+save  S EY V
+say  S EY
+schedule  S K EH JH UH L
+score  S K AO R
+scratch  S K R AE CH
+seal  S IY L
+see  S IY
+seek  S IY K
+seem  S IY M
+seize  S IY Z
+select  S AH L EH K T
+sell  S EH L
+send  S EH N D
+sense  S EH N S
+separate  S EH P ER EY T
+serve  S ER V
+set  S EH T
+settle  S EH T AH L
+sew  S OW
+shake  SH EY K
+shall  SH AE L
+shape  SH EY P
+share  SH EH R
+shave  SH EY V
+shelter  SH EH L T ER
+shin  SH IH N
+shine  SH AY N
+ship  SH IH P
+shoot  SH UW T
+shop  SH AA P
+should  SH UH D
+shut  SH AH T
+shy  SH AY
+signal  S IH G N AH L
+sing  S IH NG
+sink  S IH NG K
+sit  S IH T
+slap  S L AE P
+sleep  S L IY P
+slide  S L AY D
+slip  S L IH P
+smell  S M EH L
+smog  S M AA G
+smoke  S M OW K
+solve  S AA L V
+spare  S P EH R
+speak  S P IY K
+specify  S P EH S AH F AY
+spell  S P EH L
+spend  S P EH N D
+spill  S P IH L
+spin  S P IH N
+spoil  S P OY L
+spray  S P R EY
+spread  S P R EH D
+squeeze  S K W IY Z
+start  S T AA R T
+stay  S T EY
+steal  S T IY L
+steer  S T IH R
+step  S T EH P
+sting  S T IH NG
+stir  S T ER
+stock  S T AA K
+store  S T AO R
+strengthen  S T R EH NG TH AH N
+stretch  S T R EH CH
+strike  S T R AY K
+stroke  S T R OW K
+struggle  S T R AH G AH L
+submit  S AH B M IH T
+substitute  S AH B S T AH T UW T
+succeed  S AH K S IY D
+suck  S AH K
+suffer  S AH F ER
+suggest  S AH JH EH S T
+suit  S UW T
+sum  S AH M
+take  T EY K
+talk  T AO K
+taste  T EY S T
+taxi  T AE K S IY
+teach  T IY CH
+tear  T EH R
+tell  T EH L
+tempt  T EH M P T
+tend  T EH N D
+test  T EH S T
+thank  TH AE NG K
+think  TH IH NG K
+threaten  TH R EH T AH N
+throat  TH R OW T
+tie  T AY
+tilt  T IH L T
+tip  T IH P
+tire  T AY ER
+touch  T AH CH
+trace  T R EY S
+trail  T R EY L
+transform  T R AE N S F AO R M
+translate  T R AE N Z L EY T
+trap  T R AE P
+treat  T R IY T
+trick  T R IH K
+trip  T R IH P
+undergo  AH N D ER G OW
+understand  AH N D ER S T AE N D
+undertake  AH N D ER T EY K
+undo  AH N D UW
+unite  Y UW N AY T
+value  V AE L Y UW
+vary  V EH R IY
+view  V Y UW
+visit  V IH Z IH T
+vote  V OW T
+wait  W EY T
+wake  W EY K
+wander  W AA N D ER
+want  W AA N T
+warm  W AO R M
+warn  W AO R N
+wash  W AA SH
+watch  W AA CH
+wave  W EY V
+wear  W EH R
+weave  W IY V
+weigh  W EY
+whisper  W IH S P ER
+whistle  W IH S AH L
+win  W IH N
+wipe  W AY P
+withdraw  W IH DH D R AO
+witness  W IH T N AH S
+wolf  W UH L F
+wonder  W AH N D ER
+work  W ER K
+worry  W ER IY
+worship  W ER SH AH P
+would  W UH D
+wound  W AW N D
+wrap  R AE P
+wreck  R EH K
+write  R AY T
+yell  Y EH L
