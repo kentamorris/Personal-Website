@@ -27,7 +27,7 @@ $feedback = 'Your message has been sent!';
 ?>
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<!--cira-->
+
 <html>
 
 <head>
@@ -83,9 +83,7 @@ $feedback = 'Your message has been sent!';
             Click here to dowload the pdf
             </div>
         </a>
-<!--        <div class="container paper3">-->
-            
-<!--        </div>-->
+
     </div> 
     
     <div id="contact" class="contact">
