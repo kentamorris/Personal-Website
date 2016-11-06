@@ -34,6 +34,7 @@ $feedback = 'Your message has been sent!';
     <title>Kenta Morris - General Purpose Website</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    <script src="main.js"></script>
 </head>
 
 <body >
